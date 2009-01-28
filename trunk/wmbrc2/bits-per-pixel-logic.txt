@@ -1,0 +1,6 @@
+.15 bits/pixel -- Poor
+.18 bits/pixel -- Fair
+.21 bits/pixel -- Good
+.24 bits/pixel -- Very Good
+.27 bits/pixel -- Excellent
+.30 bits/pixel -- Near Perfect

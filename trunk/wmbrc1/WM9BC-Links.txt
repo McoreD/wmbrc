@@ -1,0 +1,19 @@
+WM9 Bitrate Calculator VB6 Version is ceased to development. 
+The latest VB6 source codes are located in "WM9 Bitrate Calculator 20031231.rar".
+
+Development of WM9 Bitrate Calculator will continue from VB.NET.
+
+
+
+http://forum.doom9.org/showthread.php?s=&threadid=67260
+http://www.betaone.net/index.php?act=ST&f=84&t=30150&st=0#entry191388
+http://www.betaresource.net/forums/index.php?showtopic=670
+
+
+
+
+
+http://mcored.serveirc.com/files/WM9BC.zip
+http://mcored.serveirc.com/files/WM9BC.rar
+http://bnmirror.zapto.org/mirror/WM9BC.rar
+http://bnmirror.zapto.org/mirror/WM9BC.zip
